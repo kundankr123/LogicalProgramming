@@ -8,7 +8,9 @@
             //Fibonacci.DisplayFibonacciSeries();
             //PerfectNumber.FindPerfectNumber();
             //PrimeNumber.CheckPrime();
-            ReverseOfNumber.Reverse();
+            //ReverseOfNumber.Reverse();
+            StopWatch.StopwatchElapsedTime();
+
         }
     }
 }
